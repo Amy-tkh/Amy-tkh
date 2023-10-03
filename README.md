@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Amy-tkh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- Computer Science student at UoPeople with a fervor for transforming code into captivating experiences. Aspiring Game Developer passionate about merging creativity with technology. Eager to contribute to the world of gaming through innovative solutions and immersive storytelling. Let's connect and chat tech, games, and the exciting future of digital experiences!
 - 📫 How to reach me khalifehtahmin@gmail.com
 
 <!---
